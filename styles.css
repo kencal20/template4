@@ -7,55 +7,20 @@
 body {
   background-color: black;
 }
-.heading {
-  height: 500px;
-  background-size: cover;
 
-}
-.heading h5 {
-  font-size: larger;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-}
-
-.heading #navbarNav {
-  display: flex;
-  
-}
-.heading ul {
-  display: flex;
-  
-  list-style: none;
-
-  text-decoration: none;
-}
-.heading ul li {
-  list-style: none;
-  
-}
-.heading h5 {
-  display: flex;
-  align-self: center;
-  justify-content: center;
-  margin-top: 20px;
-}
-
-.head_summary {
-  /* position: regular; */
-  margin-top: 90px;
-  text-align: center;
-}
-@media screen and(max-width:400px) {
+@media screen and( max-width:400px ) {
   body {
     width: 100%;
   }
 
   .heading ul {
     flex-direction: column;
-  
   }
 
-
-  h1 {
+  .heading h5 {
+    margin-left: 200px;
+  }
+  .heading h1 {
     font: 10px;
   }
 }
