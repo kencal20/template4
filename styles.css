@@ -17,9 +17,7 @@ body {
     flex-direction: column;
   }
 
-  .heading h5 {
-    margin-left: 200px;
-  }
+
   .heading h1 {
     font: 10px;
   }

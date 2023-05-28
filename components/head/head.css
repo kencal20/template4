@@ -14,7 +14,6 @@
   }
   .heading ul {
     display: flex;
-    list-style: none;
     text-decoration: none;
   }
   .heading ul li {
@@ -29,7 +28,7 @@
   }
   
   .head_summary {
-    /* position: regular; */
+    position: regular;
     margin-top: 90px;
     text-align: center;
   }
