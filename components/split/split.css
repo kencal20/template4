@@ -1,0 +1,13 @@
+section {
+  display: flex;
+  height: 100%;
+}
+.split {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+.left {
+  background-color: yellow;
+}
