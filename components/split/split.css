@@ -5,7 +5,7 @@
 
 section {
   display: flex;
-  min-height: 160vh;
+  min-height: 70vh;
 }
 .split {
   display: flex;
