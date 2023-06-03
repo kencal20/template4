@@ -2,8 +2,10 @@ export default function footerComponent(){
     return`
     <footer>
     <div class="links">
-    <p> hello </p>
-
+    <a href="#">hello</a>
+    <a href="#">hello</a>
+    <a href="#">hello</a>
+    <a href="#">hello</a>
     </div>
     <p> h1 </p>
     <p> welcome </p>
