@@ -1,5 +1,5 @@
-export default function headerComponent(){
-    return`
+export default function headerComponent() {
+    return `
     <div class="heading">
     <nav class="navbar navbar-expand-lg">
         <div class="collapse navbar-collapse" id="navbarNav">
@@ -20,7 +20,7 @@ export default function headerComponent(){
             </ul>
         </div>
     </nav>
-    <h1 class="head_summary">Welcome to Promise-land <br>Seventh-day Adventist Platform</h1>
+    <h1 class="head_summary">Welcome to  Seventh-day Adventist Church <br> Promise-land Platform</h1>
 </div>
    
     `
